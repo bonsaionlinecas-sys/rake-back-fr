@@ -1,0 +1,9 @@
+# rake-back-fr
+
+Calculez le rake back net avec exclusions, plafond et frais. Une méthode transparente, un exemple chiffré et un rapprochement du taux effectif.
+
+## Main page
+- [rake back](https://bonsaionlinecas-sys.github.io/rake-back-fr/): Calculez le rake back net avec exclusions, plafond et frais. Une méthode transparente, un exemple chiffré et un rapprochement du taux effectif.
+
+## Method and scope
+One self-contained page with an interactive tool, visible worked examples, limitations and questions. No accounts or financial transactions. Inputs are processed locally in the browser.

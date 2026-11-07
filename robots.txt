@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bonsaionlinecas-sys.github.io/rake-back-fr/sitemap.xml
